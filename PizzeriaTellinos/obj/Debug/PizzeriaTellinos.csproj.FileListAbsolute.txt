@@ -1,0 +1,280 @@
+F:\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+F:\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+C:\Users\Rosendo\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+E:\Descargas\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+F:\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+C:\Users\Rosendo\Desktop\Tellinos casi listo\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+J:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+E:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\ya esta!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+J:\HOL\ya esta!!!!!!!!!!\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+J:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+G:\HOL\ya esta la pizza ..al parecer es lo ultimo que se ha hecho\PizzeriaTellinos\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+C:\Users\usuario\Desktop\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+H:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+F:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+E:\Diego\Trabajo cojal final xd\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojAssemblyReference.cache
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.cache
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.CoreCompileInputs.cache
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (7)\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta (7)\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+C:\Users\usuario\Desktop\Nueva carpeta (7)\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+H:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Mantemiento.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Empleado.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Mantemiento.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+G:\Diego\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe.config
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.exe
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.pdb
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csprojResolveAssemblyReference.cache
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Bebidas.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Empleado.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Extras.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.ProgramaPizzeria.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Login.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Mantemiento.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Pizzas.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Properties.Resources.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.reporte_de_clientes.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Reportes.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Usuarios.resources
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.csproj.GenerateResource.Cache
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.exe
+F:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\bin\Debug\PizzeriaTellinos.pdb
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Empleado.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Mantemiento.resources
+J:\TRABAJO FINAL COJAL C# Y SQL\C#\PizzeriaTellinos\PizzeriaTellinos\obj\Debug\PizzeriaTellinos.Menu_empleado.resources
